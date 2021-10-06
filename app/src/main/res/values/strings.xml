@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Fahmi Submission</string>
+    <string name="namapemain">Nama Pemain</string>
+    <string name="detail">Detail</string>
+    <string name="profile">Profile</string>
+    <string name="fahmi_adzan_yanuar">Fahmi Adzan Yanuar</string>
+    <string name="email">fahmi1601@gmail.com</string>
+    <string name="det_name">Name</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="birth_place">Birth Place</string>
+    <string name="tempat_lahir">Tempat Lahir</string>
+    <string name="nationality">Nationality</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="berat">Berat</string>
+    <string name="biography">Biography</string>
+    <string name="fahmi_s_submission_dicoding">Fahmi\'s Submission Dicoding</string>
+</resources>
